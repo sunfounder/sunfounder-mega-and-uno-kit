@@ -119,5 +119,12 @@ rst_epilog = """
 
     <a href="hhttps://www.youtube.com/watch?v=qE1bkgziGXg&list=PLHvJ4bw0xno7Cjq3eRMIZo5YBNrL6NKgw&index=31" target="_blank">Video Tutorials for Car Projects</a>
 
+.. |link_UNO_Starter_Kit| raw:: html
+
+    <a href="https://www.sunfounder.com/products/unor3-project-starter-kit?_pos=2&_sid=15087482c&_ss=r" target="_blank">Purchase Link for UNO Starter Kit</a>
+
+.. |link_UNO_Kit| raw:: html
+
+    <a href="https://www.sunfounder.com/products/unor3-project-starter-kit?_pos=2&_sid=15087482c&_ss=r" target="_blank">UNO Starter Kit</a>
 
 """

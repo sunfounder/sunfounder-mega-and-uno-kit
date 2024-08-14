@@ -12,9 +12,10 @@
 
     👉 Ready to explore and create with us? Click [|link_sf_facebook|] and join today!
 
-SunFounder UNO Starter Kit for Arduino UNO R3
+SunFounder |link_UNO_Kit| for Arduino UNO R3
 ===================================================
 
+* |link_UNO_Starter_Kit|
 
 With this kit, we will walk you through the know-how of using the
 SunFounder board in a hands-on way. Starting with the basics of
